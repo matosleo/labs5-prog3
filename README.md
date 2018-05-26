@@ -18,4 +18,4 @@ $ ./bin/prog3
 ```
 
 ## Dificuldades
-1. Em desenvolvimento
+1. Perceber como iria testar cada elemento do vector
