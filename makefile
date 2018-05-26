@@ -14,7 +14,7 @@ OBJ = ./build
 DOC = ./doc
 
 # Define o nome do binario/executavel final
-PROG = $(BIN)/prog2
+PROG = $(BIN)/showprimos
 
 # Garante que os alvos desta lista nao sejam confundidos com arquivos de mesmo nome
 .PHONY: all clean debug doxy doc direc
